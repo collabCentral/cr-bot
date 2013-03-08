@@ -1,0 +1,10 @@
+{
+    "repository": {
+        "url": "https://src.chromium.org/chrome/branches/",
+        "branches": [
+            "1364"
+        ]
+    },
+
+    "checkoutPath": "./bot"
+}
